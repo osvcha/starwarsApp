@@ -3,7 +3,7 @@ Aplicación de práctica para el modulo Fundamentos de iOS del Bootcamp Mobile d
 
 La aplicación consiste en un listado de personajes de Star Wars, separados por tipo (Light/Dark), así como una pantall de detalle con galería de fotos, episodios de la saga donde aparece y una pequeña biografía (Lorem ipsum)
 
-#Algunas de las cosas que incluye
+## Algunas de las cosas que incluye
 - diseño del modelo de datos
 - splashscreen igual al launchscreen con fake loading
 - uso de tab bar controller
